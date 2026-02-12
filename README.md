@@ -50,7 +50,7 @@ The application is built using the MERN stack, which includes:
 
 ## Features
 - User registration and authentication
-- Certificate search
+- Certificate search and download
 - Admin upload Intern student data
 - Responsive design for mobile and desktop
 
